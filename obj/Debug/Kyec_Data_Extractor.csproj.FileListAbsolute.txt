@@ -1,0 +1,10 @@
+C:\Users\evan\source\repos\Kyec_Data_Extractor\bin\Debug\Kyec_Data_Extractor.exe.config
+C:\Users\evan\source\repos\Kyec_Data_Extractor\bin\Debug\Kyec_Data_Extractor.exe
+C:\Users\evan\source\repos\Kyec_Data_Extractor\bin\Debug\Kyec_Data_Extractor.pdb
+C:\Users\evan\source\repos\Kyec_Data_Extractor\obj\Debug\Kyec_Data_Extractor.csproj.AssemblyReference.cache
+C:\Users\evan\source\repos\Kyec_Data_Extractor\obj\Debug\Kyec_Data_Extractor.Form1.resources
+C:\Users\evan\source\repos\Kyec_Data_Extractor\obj\Debug\Kyec_Data_Extractor.Properties.Resources.resources
+C:\Users\evan\source\repos\Kyec_Data_Extractor\obj\Debug\Kyec_Data_Extractor.csproj.GenerateResource.cache
+C:\Users\evan\source\repos\Kyec_Data_Extractor\obj\Debug\Kyec_Data_Extractor.csproj.CoreCompileInputs.cache
+C:\Users\evan\source\repos\Kyec_Data_Extractor\obj\Debug\Kyec_Data_Extractor.exe
+C:\Users\evan\source\repos\Kyec_Data_Extractor\obj\Debug\Kyec_Data_Extractor.pdb
